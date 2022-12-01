@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466753320925",
+    "project_id": "sem5mp",
+    "storage_bucket": "sem5mp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466753320925:android:a8fba60028e2e45abb2834",
+        "android_client_info": {
+          "package_name": "com.sanyog.secretmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466753320925-tbjiscun2trgnom6ilctmtg89a9kusvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiE8Actuk9J4pkLzcl5vEUyEmckYMTuOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466753320925-tbjiscun2trgnom6ilctmtg89a9kusvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
